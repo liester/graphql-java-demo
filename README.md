@@ -1,1 +1,0 @@
-GraphQl-Java-Demo
